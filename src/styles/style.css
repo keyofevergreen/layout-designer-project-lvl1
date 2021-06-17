@@ -353,6 +353,10 @@ header, section, nav, footer {
    content: "";
 }
 
+.btn-send:hover {
+   background: var(--orange);
+}
+
 .subscription-agreement {
    height: 22px;
    padding-top: 3px;
