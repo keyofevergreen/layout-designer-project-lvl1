@@ -183,8 +183,8 @@ footer {
   margin-top: 40px;
   padding: 12px 24px;
 
-  font-weight: 700;
   color: var(--white);
+  font-weight: 700;
   text-transform: uppercase;
 
   background: var(--primary);
