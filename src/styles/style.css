@@ -184,8 +184,8 @@ footer {
   padding: 12px 24px;
 
   font-weight: 700;
-  text-transform: uppercase;
   color: var(--white);
+  text-transform: uppercase;
 
   background: var(--primary);
 }
@@ -244,6 +244,7 @@ footer {
 
   color: var(--dark);
   text-decoration: none;
+
   background-color: var(--light);
 }
 
