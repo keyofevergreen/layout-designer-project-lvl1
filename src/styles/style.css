@@ -180,12 +180,11 @@ footer {
 }
 
 .btn-details {
-  font-weight: 700;
-
   margin-top: 40px;
   padding: 12px 24px;
-  text-transform: uppercase;
 
+  font-weight: 700;
+  text-transform: uppercase;
   color: var(--white);
 
   background: var(--primary);
@@ -233,7 +232,6 @@ footer {
   width: 350px;
 
   color: var(--primary);
-  
   font-weight: 400;
   font-size: 50px;
 }
@@ -246,7 +244,6 @@ footer {
 
   color: var(--dark);
   text-decoration: none;
-  
   background-color: var(--light);
 }
 
