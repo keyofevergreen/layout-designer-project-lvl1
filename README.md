@@ -4,7 +4,7 @@
 This repository is created and maintained by the team and the community of Hexlet, an educational project. [Read more about Hexlet (in Russian)](https://ru.hexlet.io/pages/about?utm_source=github&utm_medium=link&utm_campaign=nodejs-package).
 ##
 
-HTML and CSS only. No responsive design.
+HTML and CSS only. Flex. No responsive design.
 
 You can view this site on Surge ===> <a href="https://exfade.surge.sh/">exfade.surge.sh</a>
 
